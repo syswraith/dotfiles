@@ -1,5 +1,10 @@
 set number
 set autoindent
+set ai
+set si
+set shiftwidth=4
+syntax on
+filetype indent on
 
 " Remove newbie crutches in Command Mode
 cnoremap <Down> <Nop>
@@ -25,4 +30,6 @@ vnoremap <Left> <Nop>
 vnoremap <Right> <Nop>
 vnoremap <Up> <Nop>
 
- 
+" Vim Plug
+call plug#begin()
+call plug#end()
