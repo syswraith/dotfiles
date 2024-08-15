@@ -1,0 +1,3 @@
+CHOOSE=char A
+[char A]
+OPTIONS=role:wiz,race:elf,align:cha,gender:mal,catname:catd,color
