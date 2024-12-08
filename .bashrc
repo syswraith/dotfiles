@@ -22,10 +22,21 @@ alias ?="ddgr" # extra/ddgr required
 alias pdfpgs="/home/syswraith/Documents/College/pdf-pages.sh"
 
 # Environment variables
-VENPATH="./venv/bin/activate" # Path to activate venv in python
 HISTTIMEFORMAT="%F %T "
 PROMPT_COMMAND='PS1_CMD1=$(ip route get 1.1.1.1 | awk -F"src " '"'"'NR == 1{ split($2, a," ");print a[1]}'"'"')'; PS1='[\[\e[92;1m\]\u\[\e[0m\]@\[\e[92;1m\]${PS1_CMD1}\[\e[0m\]|\[\e[92m\]\H\[\e[0m\]]{\[\e[38;5;39;1;2;3m\]\w\[\e[0m\]}\n\$ '
 
+# For hassle-free creation of venvs in python
+pyvenv(){
+    if [[ "$1" == "on" ]]; then
+	source ./venv/bin/activate
+    elif [[ "$1" == "off" ]]; then
+	deactivate
+    else
+	python3 -m venv venv && source ./venv/bin/activate
+    fi
+}
+
+# For managing the backlight on my laptop
 backlight() {
     if [[ "$1" == "up" ]]; then
 	gdbus call --session --dest org.gnome.SettingsDaemon.Power --object-path /org/gnome/SettingsDaemon/Power --method org.gnome.SettingsDaemon.Power.Keyboard.StepUp
