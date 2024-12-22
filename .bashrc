@@ -14,12 +14,10 @@ alias ctrlc="ssh fey@ctrl-c.club"
 alias ff="firefox"
 alias pp="python3"
 alias cclip="wl-copy" # Requires extra/wl-clipboard
-alias vi='nvim' # Requires extra/nvim
-alias vim='nvim'
+alias vi='vim' # Requires extra/vim
 alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
 alias ifconfig="ip addr" # net-tools is depreciated, so an illegal workaround
 alias ?="ddgr" # extra/ddgr required 
-alias pdfpgs="/home/syswraith/Documents/College/pdf-pages.sh"
 
 # Environment variables
 HISTTIMEFORMAT="%F %T "
@@ -46,5 +44,8 @@ backlight() {
 	echo "Usage: backlight {up|down}"
     fi
 }
+
+get(){ sudo pacman -S $1 }
+unget(){ sudo pacman -R $1 }
 
 fortune
