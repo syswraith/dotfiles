@@ -1,6 +1,10 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# Vim supremacy
+export EDITOR=vim
+export VISUAL=vim
+
 # Command specific
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
@@ -10,12 +14,12 @@ alias ll='ls -al --color=auto'
 alias telehack="ssh rflash@telehack.com -p 6668"
 alias ctrlc="ssh fey@ctrl-c.club"
 
-# Arch specific
+# Package specific
 alias ff="firefox"
 alias pp="python3"
 alias cclip="wl-copy" # Requires extra/wl-clipboard
 alias vi='vim' # Requires extra/vim
-alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
+# alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
 alias ifconfig="ip addr" # net-tools is depreciated, so an illegal workaround
 alias ?="ddgr" # extra/ddgr required 
 
@@ -45,7 +49,8 @@ backlight() {
     fi
 }
 
-get(){ sudo pacman -S $1 }
-unget(){ sudo pacman -R $1 }
+get() { sudo pacman -S "$@"; }
+unget() { sudo pacman -R "$@"; }
+
 
 fortune
