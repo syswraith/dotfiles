@@ -2,6 +2,7 @@ base
 base-devel
 blueman
 dconf-editor
+ddgr
 ed
 efibootmgr
 firefox
@@ -24,6 +25,7 @@ obsidian
 rich-cli
 sudo
 vim
+wl-clipboard
 yay
 yay-debug
 yt-dlp
