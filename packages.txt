@@ -20,7 +20,6 @@ less
 linux
 linux-firmware
 nautilus
-netkit-bsd-finger
 network-manager-applet
 obsidian
 rich-cli
