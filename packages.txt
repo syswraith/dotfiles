@@ -10,6 +10,7 @@ fortune-mod
 gdm
 git
 github-cli
+gnome-browser-connector
 gnome-control-center
 gnome-session
 gnome-terminal
@@ -24,6 +25,7 @@ netkit-bsd-finger
 network-manager-applet
 obsidian
 rich-cli
+sassc
 sudo
 vim
 wl-clipboard
