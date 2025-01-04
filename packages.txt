@@ -1,6 +1,5 @@
 base
 base-devel
-bc
 blueman
 dconf-editor
 ddgr
