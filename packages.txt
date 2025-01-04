@@ -11,6 +11,7 @@ gdm
 git
 github-cli
 gnome-browser-connector
+gnome-calculator
 gnome-control-center
 gnome-session
 gnome-terminal
