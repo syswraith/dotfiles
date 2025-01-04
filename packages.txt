@@ -1,6 +1,7 @@
 base
 base-devel
 blueman
+chromium
 dconf-editor
 ed
 efibootmgr
