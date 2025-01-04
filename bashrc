@@ -49,7 +49,7 @@ backlight() {
     fi
 }
 
-update_packages() { ~/Important/package_management/packages.sh; }
+update_packages() { cd ~/Important/package_management && ./packages.sh; } # Requires this directory structure to work
 get() { yay -S "$@" && update_packages; }
 unget() { yay -R "$@" && update_packages; }
 
