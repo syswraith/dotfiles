@@ -22,6 +22,7 @@ less
 linux
 linux-firmware
 nautilus
+nethack
 netkit-bsd-finger
 network-manager-applet
 rich-cli
