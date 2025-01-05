@@ -28,6 +28,7 @@ rich-cli
 sassc
 speech-dispatcher
 sudo
+tree
 vim
 wl-clipboard
 yay
