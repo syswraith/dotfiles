@@ -4,6 +4,7 @@ blueman
 chromium
 dconf-editor
 ddgr
+distrobox
 ed
 efibootmgr
 firefox
