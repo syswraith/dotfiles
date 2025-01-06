@@ -5,6 +5,7 @@ chromium
 dconf-editor
 ddgr
 distrobox
+docker
 ed
 efibootmgr
 firefox
