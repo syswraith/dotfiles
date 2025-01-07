@@ -28,7 +28,6 @@ nautilus
 nethack
 netkit-bsd-finger
 network-manager-applet
-pup
 rich-cli
 sassc
 speech-dispatcher
