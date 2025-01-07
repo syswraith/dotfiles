@@ -29,7 +29,6 @@ nethack
 netkit-bsd-finger
 network-manager-applet
 rich-cli
-sassc
 speech-dispatcher
 sudo
 torbrowser-launcher
