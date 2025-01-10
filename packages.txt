@@ -27,6 +27,7 @@ less
 linux
 linux-firmware
 nautilus
+nchat
 neofetch
 nethack
 netkit-bsd-finger
