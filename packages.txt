@@ -30,6 +30,7 @@ neofetch
 nethack
 netkit-bsd-finger
 network-manager-applet
+obsidian
 rich-cli
 speech-dispatcher
 sudo
