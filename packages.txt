@@ -36,6 +36,7 @@ obsidian
 rich-cli
 speech-dispatcher
 sudo
+tmux
 torbrowser-launcher
 tree
 vim
