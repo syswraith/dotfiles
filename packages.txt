@@ -19,7 +19,7 @@ gnome-browser-connector
 gnome-clocks
 gnome-control-center
 gnome-session
-gnome-terminal
+gnome-terminal-transparency
 gnome-tweaks
 grub
 irssi
