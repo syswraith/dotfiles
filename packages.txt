@@ -27,6 +27,7 @@ iwd
 less
 linux
 linux-firmware
+man-db
 nautilus
 nchat
 neofetch
