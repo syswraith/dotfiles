@@ -34,6 +34,7 @@ neofetch
 nethack
 netkit-bsd-finger
 network-manager-applet
+nmap
 nnn
 npm
 obsidian
