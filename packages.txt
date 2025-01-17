@@ -38,6 +38,7 @@ nmap
 nnn
 npm
 obsidian
+pup
 rich-cli
 speech-dispatcher
 sudo
