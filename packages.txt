@@ -46,6 +46,7 @@ tmux
 torbrowser-launcher
 tree
 vim
+wget
 wl-clipboard
 yay
 yay-debug
