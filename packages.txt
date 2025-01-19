@@ -13,7 +13,6 @@ efibootmgr
 firefox
 fortune-mod
 gdm
-ghidra
 git
 github-cli
 gnome-browser-connector
