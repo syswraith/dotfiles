@@ -15,7 +15,6 @@ efibootmgr
 firefox
 fortune-mod
 gdm
-gedit
 ghidra
 gimp
 git
