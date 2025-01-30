@@ -17,6 +17,7 @@ alias ctrlc="ssh fey@ctrl-c.club"
 # Package specific
 alias ff="firefox"
 alias pp="python3"
+alias gpp="g++"
 alias cclip="wl-copy" # Requires extra/wl-clipboard
 alias vi='vim' # Requires extra/vim
  alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
@@ -49,9 +50,6 @@ backlight() {
     fi
 }
 
-update_packages() { cd ~/Important/package_management/dotfiles && ./packages.sh; } # Requires this directory structure to work
+update_packages() { current_path=$(pwd) && cd ~/Important/package_management/dotfiles && ./packages.sh && cd $current_path; } # Requires this directory structure to work
 get() { yay -S "$@" && update_packages; }
 unget() { yay -R "$@" && update_packages; }
-
-
-fortune
