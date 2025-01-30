@@ -52,6 +52,7 @@ sudo
 tmux
 torbrowser-launcher
 tree
+update-grub
 vim
 wget
 wl-clipboard
