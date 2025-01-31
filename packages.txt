@@ -29,6 +29,7 @@ gnome-tweaks
 grub
 hcxdumptool
 hcxtools
+inetutils
 irssi
 iwd
 less
