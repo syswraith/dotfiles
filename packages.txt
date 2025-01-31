@@ -28,6 +28,7 @@ gnome-terminal-transparency
 gnome-tweaks
 grub
 hcxdumptool
+hcxtools
 irssi
 iwd
 less
