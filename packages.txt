@@ -13,6 +13,7 @@ docker
 dwarffortress
 ed
 efibootmgr
+ettercap
 firefox
 fortune-mod
 gdm
