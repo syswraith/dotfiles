@@ -6,6 +6,7 @@ bc
 blueman
 chromium
 cjson
+cowpatty
 dconf-editor
 ddgr
 distrobox
