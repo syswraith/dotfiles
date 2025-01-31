@@ -17,7 +17,6 @@ firefox
 fortune-mod
 gdm
 ghidra
-gimp
 git
 github-cli
 gnome-browser-connector
@@ -27,7 +26,6 @@ gnome-session
 gnome-terminal-transparency
 gnome-tweaks
 grub
-insomnia
 irssi
 iwd
 less
