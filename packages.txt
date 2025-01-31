@@ -28,7 +28,6 @@ gnome-session
 gnome-terminal-transparency
 gnome-tweaks
 grub
-hcxdumptool
 hcxtools
 inetutils
 irssi
