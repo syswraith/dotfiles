@@ -55,6 +55,7 @@ tree
 update-grub
 vim
 wget
+wifite
 wl-clipboard
 yay
 yay-debug
