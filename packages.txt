@@ -33,6 +33,7 @@ iwd
 less
 linux
 linux-firmware
+linux-headers
 man-db
 nautilus
 nchat
