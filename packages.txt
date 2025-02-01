@@ -51,6 +51,7 @@ nvidia
 nvidia-settings
 nvidia-utils
 obsidian
+ollama
 os-prober
 pup
 rich-cli
