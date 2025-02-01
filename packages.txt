@@ -47,6 +47,9 @@ network-manager-applet
 nmap
 nnn
 npm
+nvidia
+nvidia-settings
+nvidia-utils
 obsidian
 os-prober
 pup
