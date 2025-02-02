@@ -26,7 +26,6 @@ alias ?="ddgr" # extra/ddgr required
 
 # Environment variables
 HISTTIMEFORMAT="%F %T "
-PROMPT_COMMAND='PS1_CMD1=$(ip route get 1.1.1.1 | awk -F"src " '"'"'NR == 1{ split($2, a," ");print a[1]}'"'"')'; PS1='[\[\e[92;1m\]\u\[\e[0m\]@\[\e[92;1m\]${PS1_CMD1}\[\e[0m\]|\[\e[92m\]\H\[\e[0m\]]{\[\e[38;5;39;1;2;3m\]\w\[\e[0m\]}\n\$ '
 
 # For hassle-free creation of venvs in python
 pyvenv(){
