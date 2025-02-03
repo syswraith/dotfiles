@@ -10,3 +10,8 @@ filetype indent on
 :set shellcmdflag=-ic
 :command C80 set cc=80
 
+autocmd VimEnter * silent !source ~/.bashrc
+
+call plug#begin()
+call plug#end()
+
