@@ -6,6 +6,7 @@ bc
 blueman
 chromium
 cjson
+clang
 cowpatty
 dconf-editor
 ddgr
@@ -53,6 +54,7 @@ nvidia-utils
 obsidian
 ollama
 os-prober
+pandoc-cli
 pup
 rich-cli
 speech-dispatcher
