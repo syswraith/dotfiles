@@ -19,6 +19,7 @@ ettercap
 firefox
 fortune-mod
 gdm
+gedit
 ghidra
 git
 github-cli
