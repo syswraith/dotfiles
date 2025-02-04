@@ -2,7 +2,6 @@ android-tools
 astyle
 base
 base-devel
-bc
 blueman
 chromium
 cjson
