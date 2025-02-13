@@ -28,6 +28,7 @@ linux-firmware
 linux-headers
 love
 man-db
+metasploit
 nautilus
 neofetch
 nethack
