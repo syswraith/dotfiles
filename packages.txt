@@ -44,6 +44,7 @@ obsidian
 ollama
 os-prober
 pup
+python-pipx
 speech-dispatcher
 sqlitebrowser
 sudo
