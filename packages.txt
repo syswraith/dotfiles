@@ -53,6 +53,7 @@ torbrowser-launcher
 tree
 update-grub
 vim
+waydroid
 wget
 wl-clipboard
 yay
