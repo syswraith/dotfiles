@@ -1,6 +1,7 @@
 android-tools
 base
 base-devel
+binder_linux-dkms
 blueman
 chromium
 dconf-editor
