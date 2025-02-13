@@ -1,5 +1,4 @@
 android-tools
-apostrophe
 base
 base-devel
 blueman
