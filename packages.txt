@@ -1,7 +1,6 @@
 android-tools
 base
 base-devel
-binder_linux-dkms
 blueman
 chromium
 dconf-editor
@@ -54,7 +53,6 @@ torbrowser-launcher
 tree
 update-grub
 vim
-waydroid
 wget
 wl-clipboard
 yay
