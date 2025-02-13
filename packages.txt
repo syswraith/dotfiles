@@ -6,7 +6,6 @@ chromium
 dconf-editor
 ddgr
 docker
-dwarffortress
 efibootmgr
 firefox
 fortune-mod
