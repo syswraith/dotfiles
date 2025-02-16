@@ -2,6 +2,7 @@ android-tools
 base
 base-devel
 blueman
+cheese
 chromium
 dconf-editor
 ddgr
