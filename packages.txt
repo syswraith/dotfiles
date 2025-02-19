@@ -1,6 +1,7 @@
 android-tools
 base
 base-devel
+blackarch-keyring
 blueman
 cheese
 chromium
@@ -38,6 +39,7 @@ netkit-bsd-finger
 network-manager-applet
 nmap
 nnn
+noto-fonts-emoji
 npm
 nvidia
 nvidia-settings
@@ -47,6 +49,7 @@ ollama
 os-prober
 pup
 python-pipx
+seclists
 speech-dispatcher
 sqlitebrowser
 sudo
