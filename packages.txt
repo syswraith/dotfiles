@@ -1,4 +1,5 @@
 android-tools
+anki-bin
 base
 base-devel
 blackarch-keyring
