@@ -47,12 +47,14 @@ nvidia-utils
 obsidian
 ollama
 os-prober
+proton-vpn-gtk-app
 pup
 python-pipx
 seclists
 speech-dispatcher
 sqlitebrowser
 sudo
+texlive-bin
 tmux
 torbrowser-launcher
 tree
