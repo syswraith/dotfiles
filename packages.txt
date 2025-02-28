@@ -1,5 +1,4 @@
 android-tools
-anki-bin
 base
 base-devel
 blackarch-keyring
@@ -34,14 +33,12 @@ linux-firmware
 linux-headers
 love
 man-db
-metasploit
 nautilus
 neofetch
 nethack
 netkit-bsd-finger
 network-manager-applet
 nmap
-nnn
 noto-fonts-emoji
 npm
 nvidia
