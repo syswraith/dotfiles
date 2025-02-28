@@ -7,7 +7,6 @@ cheese
 chromium
 dconf-editor
 ddgr
-discord
 docker
 efibootmgr
 firefox
