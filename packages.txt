@@ -28,6 +28,7 @@ inetutils
 irssi
 iwd
 less
+librewolf-bin
 linux
 linux-firmware
 linux-headers
