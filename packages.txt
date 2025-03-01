@@ -3,6 +3,7 @@ base
 base-devel
 blackarch-keyring
 blueman
+brave-bin
 cheese
 chromium
 dconf-editor
