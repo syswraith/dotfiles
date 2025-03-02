@@ -51,6 +51,8 @@ backlight() {
     fi
 }
 
+alias gittt="git add . && git commit -m \"$(date)\" && git push"
+
 update_packages() { current_path=$(pwd) && cd ~/Important/package_management/dotfiles && ./packages.sh && cd $current_path; } # Requires this directory structure to work
 get() { yay -S "$@" && update_packages; }
 unget() { yay -R "$@" && update_packages; }
