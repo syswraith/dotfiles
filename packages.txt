@@ -5,7 +5,6 @@ blackarch-keyring
 blueman
 brave-bin
 cheese
-chromium
 dconf-editor
 ddgr
 docker
@@ -28,7 +27,6 @@ inetutils
 irssi
 iwd
 less
-librewolf-bin
 linux
 linux-firmware
 linux-headers
