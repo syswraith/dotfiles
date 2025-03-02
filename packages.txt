@@ -10,6 +10,7 @@ ddgr
 docker
 easyeffects
 efibootmgr
+epiphany
 firefox
 fortune-mod
 gdm
