@@ -9,6 +9,7 @@ chromium
 dconf-editor
 ddgr
 docker
+easyeffects
 efibootmgr
 firefox
 fortune-mod
