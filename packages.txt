@@ -7,6 +7,7 @@ brave-bin
 cheese
 dconf-editor
 ddgr
+deno
 docker
 easyeffects
 efibootmgr
