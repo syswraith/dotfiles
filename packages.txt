@@ -40,7 +40,6 @@ netkit-bsd-finger
 network-manager-applet
 nmap
 noto-fonts-emoji
-npm
 nvidia
 nvidia-settings
 nvidia-utils
