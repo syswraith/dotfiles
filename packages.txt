@@ -59,6 +59,7 @@ texlive-bin
 tmux
 torbrowser-launcher
 tree
+ufw
 update-grub
 vim
 waydroid
