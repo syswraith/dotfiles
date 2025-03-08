@@ -1,5 +1,6 @@
 android-tools
 asciinema
+asciinema-agg
 base
 base-devel
 blackarch-keyring
