@@ -28,6 +28,7 @@ gnome-terminal-transparency
 gnome-tweaks
 gnu-netcat
 grub
+gst-plugin-pipewire
 inetutils
 irssi
 iwd
