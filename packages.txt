@@ -74,4 +74,3 @@ wl-clipboard
 yay
 yay-debug
 yt-dlp
-zed
