@@ -68,7 +68,6 @@ tree
 ufw
 update-grub
 vim
-waydroid
 wget
 wl-clipboard
 yay
