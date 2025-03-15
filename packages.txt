@@ -27,7 +27,6 @@ gnome-session
 gnome-terminal-transparency
 gnome-tweaks
 gnu-netcat
-gptfdisk
 grub
 gst-plugin-pipewire
 inetutils
