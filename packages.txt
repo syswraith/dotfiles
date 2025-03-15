@@ -70,6 +70,7 @@ tree
 ufw
 update-grub
 vim
+wayvibes-git
 wget
 wl-clipboard
 yay
