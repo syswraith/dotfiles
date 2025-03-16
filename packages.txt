@@ -8,6 +8,7 @@ blueman
 brave-bin
 cheese
 cool-retro-term
+dash
 dconf-editor
 ddgr
 deno
