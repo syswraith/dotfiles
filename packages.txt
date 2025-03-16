@@ -69,7 +69,6 @@ torbrowser-launcher
 tree
 ufw
 update-grub
-vim
 wayvibes-git
 wget
 whois
