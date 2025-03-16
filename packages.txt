@@ -31,7 +31,6 @@ gnome-tweaks
 gnu-netcat
 grub
 gst-plugin-pipewire
-gvim
 inetutils
 irssi
 iwd
