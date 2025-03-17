@@ -43,6 +43,7 @@ man-db
 mpv
 nautilus
 neofetch
+neovim
 nethack
 netkit-bsd-finger
 network-manager-applet
