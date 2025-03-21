@@ -12,6 +12,3 @@ filetype indent on
 
 autocmd VimEnter * silent !source ~/.bashrc
 
-call plug#begin()
-call plug#end()
-
