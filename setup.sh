@@ -1,3 +1,5 @@
+cd ~ && git clone https://github.com/syswraith/dotfiles
+
 ln -s ~/dotfiles/bashrc ~/.bashrc
 ln -s ~/dotfiles/gitconfig ~/.gitconfig
 ln -s ~/dotfiles/nethackrc ~/.nethackrc
