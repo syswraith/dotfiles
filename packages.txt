@@ -55,7 +55,6 @@ nvidia-utils
 obsidian
 ollama
 os-prober
-plan9port
 proton-vpn-gtk-app
 pup
 python-pipx
