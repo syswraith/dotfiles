@@ -22,7 +22,7 @@ alias cclip="wl-copy" # Requires extra/wl-clipboard
 alias vi='vim' # Requires extra/vim
  alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
 alias ifconfig="ip addr" # net-tools is depreciated, so an illegal workaround
-alias ?="ddgr" # extra/ddgr required 
+alias cdtemp='cd $(mktemp -d)'
 
 # Environment variables
 PS1='\$ '
