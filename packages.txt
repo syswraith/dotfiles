@@ -60,7 +60,6 @@ speech-dispatcher
 sqlitebrowser
 sudo
 syncthing
-texlive-bin
 tmux
 torbrowser-launcher
 tree
