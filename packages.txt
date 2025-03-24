@@ -57,7 +57,6 @@ seclists
 speech-dispatcher
 sqlitebrowser
 sudo
-syncthing
 tmux
 torbrowser-launcher
 tree
