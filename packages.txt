@@ -55,7 +55,6 @@ os-prober
 proton-vpn-gtk-app
 pup
 python-pipx
-sbcl
 seclists
 speech-dispatcher
 sqlitebrowser
