@@ -67,7 +67,6 @@ torbrowser-launcher
 tree
 update-grub
 vim
-wayvibes-git
 wget
 whois
 wl-clipboard
