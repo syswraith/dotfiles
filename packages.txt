@@ -8,7 +8,6 @@ blackarch-keyring
 blueman
 brave-bin
 cheese
-cool-retro-term
 dconf-editor
 deno
 docker
