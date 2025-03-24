@@ -36,7 +36,6 @@ less
 linux
 linux-firmware
 linux-headers
-love
 man-db
 mpv
 nautilus
