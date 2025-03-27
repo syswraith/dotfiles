@@ -50,6 +50,7 @@ nvidia-utils
 obsidian
 ollama
 os-prober
+perl-image-exiftool
 proton-vpn-gtk-app
 pup
 python-pipx
