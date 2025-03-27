@@ -54,6 +54,7 @@ perl-image-exiftool
 proton-vpn-gtk-app
 pup
 python-pipx
+reaver
 seclists
 speech-dispatcher
 sqlitebrowser
