@@ -12,7 +12,6 @@ dconf-editor
 deno
 docker
 efibootmgr
-exif
 firefox
 fortune-mod
 gdm
