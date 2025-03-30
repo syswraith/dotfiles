@@ -55,7 +55,6 @@ perl-image-exiftool
 proton-vpn-gtk-app
 pup
 python-pipx
-seclists
 speech-dispatcher
 sqlitebrowser
 sudo
