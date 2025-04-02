@@ -37,6 +37,7 @@ linux
 linux-firmware
 linux-headers
 man-db
+mariadb
 mpv
 nautilus
 neofetch
