@@ -8,6 +8,7 @@ blackarch-keyring
 blueman
 brave-bin
 cheese
+cython
 dconf-editor
 deno
 docker
