@@ -62,6 +62,7 @@ python-pipx
 speech-dispatcher
 sqlitebrowser
 sudo
+tk
 torbrowser-launcher
 tree
 typescript
