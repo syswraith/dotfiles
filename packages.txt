@@ -42,7 +42,6 @@ mariadb
 mpv
 nautilus
 neofetch
-neovim
 nethack
 netkit-bsd-finger
 network-manager-applet
@@ -67,7 +66,6 @@ torbrowser-launcher
 tree
 typescript
 update-grub
-vim
 wget
 whois
 wl-clipboard
