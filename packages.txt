@@ -70,6 +70,7 @@ update-grub
 wget
 whois
 wl-clipboard
+xonsh
 yay
 yay-debug
 yt-dlp
