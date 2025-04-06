@@ -59,6 +59,7 @@ perl-image-exiftool
 proton-vpn-gtk-app
 pup
 python-pipx
+rpi-imager
 speech-dispatcher
 sqlitebrowser
 sudo
