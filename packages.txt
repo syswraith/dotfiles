@@ -64,6 +64,7 @@ rpi-imager
 speech-dispatcher
 sqlitebrowser
 sudo
+tcc
 tk
 torbrowser-launcher
 tree
