@@ -66,6 +66,7 @@ speech-dispatcher
 sqlitebrowser
 sudo
 tk
+tmux
 torbrowser-launcher
 tree
 typescript
