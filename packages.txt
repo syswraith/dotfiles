@@ -43,7 +43,6 @@ man-db
 mariadb
 mpv
 nautilus
-ncmpcpp
 neofetch
 nethack
 netkit-bsd-finger
