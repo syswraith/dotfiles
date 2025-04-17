@@ -38,6 +38,7 @@ less
 linux
 linux-firmware
 linux-headers
+logseq-desktop-bin
 man-db
 mariadb
 mpv
