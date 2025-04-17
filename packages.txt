@@ -33,6 +33,7 @@ gvim
 inetutils
 irssi
 iwd
+kakoune
 kitty
 less
 linux
