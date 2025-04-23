@@ -6,6 +6,7 @@ set shiftwidth=4
 set softtabstop=4
 set smarttab
 set hlsearch
+
 filetype plugin indent on
 syntax enable
 
