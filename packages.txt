@@ -6,6 +6,7 @@ base-devel
 bind
 blackarch-keyring
 blueman
+bottles
 brave-bin
 cheese
 cython
@@ -33,6 +34,7 @@ gvim
 inetutils
 irssi
 iwd
+kakoune
 kitty
 less
 linux
