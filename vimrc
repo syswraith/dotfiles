@@ -1,14 +1,14 @@
 set number
-set autoindent
-set ai
-set si
+set relativenumber
+set expandtab
+set tabstop=4
 set shiftwidth=4
+set softtabstop=4
+set smarttab
 set hlsearch
-syntax on
-filetype indent on
+filetype plugin indent on
+syntax enable
 
-:set shellcmdflag=-ic
-:command C80 set cc=80
+command C80 set cc=80
 
-autocmd VimEnter * silent !source ~/.bashrc
-
+autocmd VimEnter,ColorScheme * set list

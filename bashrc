@@ -2,8 +2,8 @@
 [[ $- != *i* ]] && return
 
 # Vim supremacy
-export EDITOR=vim
-export VISUAL=vim
+export EDITOR='vim -v'
+export VISUAL='vim -v'
 
 # Command specific
 alias ls='ls --color=auto'
@@ -19,8 +19,10 @@ alias ff="firefox"
 alias pp="python3"
 alias gpp="g++ -std=c++20"
 alias cclip="wl-copy" # Requires extra/wl-clipboard
-alias vi='vim' # Requires extra/vim
- alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
+alias vim='vim -v' # Requires extra/vim
+#alias vi='vim -v'
+alias vi='vim -v'
+alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
 alias ifconfig="ip addr" # net-tools is depreciated, so an illegal workaround
 alias cdtemp='cd $(mktemp -d)'
 
