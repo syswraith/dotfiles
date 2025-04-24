@@ -25,7 +25,6 @@ gnome-control-center
 gnome-disk-utility
 gnome-session
 gnome-shell-extension-pop-shell-git
-gnome-terminal-transparency
 gnome-tweaks
 gnu-netcat
 grub
@@ -34,7 +33,6 @@ gvim
 inetutils
 irssi
 iwd
-kakoune
 kitty
 less
 linux
