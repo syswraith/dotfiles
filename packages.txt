@@ -47,7 +47,6 @@ nethack
 netkit-bsd-finger
 network-manager-applet
 nmap
-nnn
 noto-fonts-emoji
 npm
 nvidia
