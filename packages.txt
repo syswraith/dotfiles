@@ -6,7 +6,6 @@ base-devel
 bind
 blackarch-keyring
 blueman
-bottles
 brave-bin
 cheese
 cython
