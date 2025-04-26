@@ -15,6 +15,7 @@ docker
 dwarffortress
 efibootmgr
 fortune-mod
+gdb
 gdm
 git
 github-cli
