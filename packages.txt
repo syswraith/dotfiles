@@ -19,7 +19,6 @@ gdm
 git
 github-cli
 gnome-browser-connector
-gnome-clocks
 gnome-control-center
 gnome-disk-utility
 gnome-session
