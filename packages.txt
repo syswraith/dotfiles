@@ -26,6 +26,7 @@ gnome-session
 gnome-shell-extension-pop-shell-git
 gnome-tweaks
 gnu-netcat
+gparted
 grub
 gst-plugin-pipewire
 gvim
