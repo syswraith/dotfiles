@@ -21,7 +21,6 @@ gnome-calculator
 gnome-disk-utility
 gnome-session
 gnome-shell-extension-pop-shell-git
-gnome-text-editor
 gnome-tweaks
 gnu-netcat
 gparted
