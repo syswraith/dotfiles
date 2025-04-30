@@ -17,7 +17,6 @@ gdm
 git
 github-cli
 gnome-browser-connector
-gnome-calculator
 gnome-disk-utility
 gnome-session
 gnome-shell-extension-pop-shell-git
