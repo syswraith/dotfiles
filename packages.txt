@@ -115,5 +115,3 @@ xclip
 yay
 yay-debug
 yt-dlp
-zsh
-zsh-completions
