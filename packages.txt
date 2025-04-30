@@ -28,7 +28,6 @@ grub
 gst-plugin-pipewire
 gum
 gvim
-hyprshade
 imv
 inetutils
 irssi
