@@ -11,7 +11,6 @@ checkupdates-with-aur
 cheese
 cython
 efibootmgr
-ffmpegthumbnailer
 gdb
 gdm
 git
@@ -25,9 +24,7 @@ gnu-netcat
 gparted
 grub
 gst-plugin-pipewire
-gum
 gvim
-imv
 inetutils
 irssi
 iwd
@@ -36,7 +33,6 @@ less
 linux
 linux-firmware
 linux-headers
-loupe
 man-db
 mpv
 nautilus
@@ -48,20 +44,18 @@ nmap
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-nvidia
+nvidia-beta
 nvidia-settings
-nvidia-utils
-nwg-dock-hyprland
 obsidian
 os-prober
 otf-font-awesome
+plasma-browser-integration
 power-profiles-daemon
 pup
 python-pip
 python-pipx
 python-screeninfo
 qbittorrent
-rsync
 speech-dispatcher
 sudo
 tk
@@ -72,7 +66,6 @@ update-grub
 uwsm
 wayvibes-git
 whois
-xclip
 yay
 yay-debug
 yt-dlp
