@@ -68,6 +68,7 @@ tree
 ttf-dejavu
 update-grub
 uwsm
+vlc
 wayvibes-git
 wget
 whois
