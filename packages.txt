@@ -37,7 +37,6 @@ linux
 linux-firmware
 linux-headers
 man-db
-mpv
 nautilus
 nautilus-open-any-terminal
 neofetch
