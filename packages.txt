@@ -23,6 +23,7 @@ gnome-session
 gnome-shell-extension-pop-shell-git
 gnome-tweaks
 gnu-netcat
+gollum
 gparted
 grub
 gst-plugin-pipewire
