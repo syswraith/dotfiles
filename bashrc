@@ -62,3 +62,4 @@ unget() { yay -R "$@" && update_packages; }
 # Created by `pipx` on 2025-02-13 19:06:28
 export PATH="$PATH:/home/syswraith/.local/bin"
 
+cat .plan
