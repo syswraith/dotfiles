@@ -10,6 +10,7 @@ brave-bin
 checkupdates-with-aur
 cheese
 cosmic-session
+cosmic-term-git
 cython
 efibootmgr
 gdb
