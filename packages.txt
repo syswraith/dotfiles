@@ -40,6 +40,7 @@ man-db
 mpv
 nautilus
 nautilus-open-any-terminal
+neofetch
 nethack
 netkit-bsd-finger
 network-manager-applet
