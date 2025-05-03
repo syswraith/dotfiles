@@ -68,6 +68,7 @@ uwsm
 wayvibes-git
 wget
 whois
+wl-clipboard
 yay
 yay-debug
 yt-dlp
