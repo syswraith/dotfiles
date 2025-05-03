@@ -57,6 +57,7 @@ python-pip
 python-pipx
 python-screeninfo
 qbittorrent
+ruby
 speech-dispatcher
 sudo
 tk
