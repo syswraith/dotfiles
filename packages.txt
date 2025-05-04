@@ -65,6 +65,7 @@ tk
 tmux
 tree
 ttf-dejavu
+typescript
 update-grub
 uwsm
 vlc
