@@ -12,6 +12,7 @@ cheese
 cosmic-session
 cosmic-term-git
 cython
+deno
 efibootmgr
 gdb
 gdm
