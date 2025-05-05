@@ -1,3 +1,4 @@
+android-apktool-bin
 android-tools
 asciinema
 asciinema-agg
