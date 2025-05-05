@@ -62,6 +62,7 @@ python-screeninfo
 qbittorrent
 ruby
 speech-dispatcher
+sshpass
 sudo
 tk
 tmux
