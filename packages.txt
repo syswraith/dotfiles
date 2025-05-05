@@ -14,6 +14,7 @@ cosmic-session
 cosmic-term-git
 cython
 deno
+dwarffortress
 efibootmgr
 gdb
 gdm
