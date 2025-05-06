@@ -7,7 +7,6 @@ base-devel
 bind
 blackarch-keyring
 blueman
-brave-bin
 checkupdates-with-aur
 cheese
 cosmic-session
