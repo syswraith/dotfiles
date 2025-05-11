@@ -20,17 +20,18 @@ alias pp="python3"
 alias gpp="g++ -std=c++20"
 alias cclip="wl-copy" # Requires extra/wl-clipboard
 alias vim='vim -v' # Requires extra/vim
-#alias vi='vim -v'
 alias vi='vim -v'
 alias lstpkgs="pacman -Qei | awk '/^Name/ { name=\$3 } /^Groups/ { if ( \$3 != \"base\" && \$3 != \"base-devel\" ) { print name } }'"
 alias ifconfig="ip addr" # net-tools is depreciated, so an illegal workaround
 alias cdtemp='cd $(mktemp -d)'
+alias gittt="git add . && git commit -m \"$(date)\" && git push"
+alias gpom="git pull origin main"
 
 # Environment variables
 PS1='\$ '
 HISTTIMEFORMAT="%F %T "
 github="https://github.com/syswraith"
-
+hyprconf="/home/syswraith/.config/hypr/hyprland.conf"
 # For hassle-free creation of venvs in python
 pyvenv(){
     if [[ "$1" == "on" ]]; then
@@ -52,8 +53,6 @@ backlight() {
 	echo "Usage: backlight {up|down}"
     fi
 }
-
-alias gittt="git add . && git commit -m \"$(date)\" && git push"
 
 update_packages() { current_path=$(pwd) && cd ~/Important/package_management/dotfiles && ./packages.sh && cd $current_path; } # Requires this directory structure to work
 get() { yay -S "$@" && update_packages; }
