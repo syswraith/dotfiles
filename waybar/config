@@ -49,9 +49,9 @@
 
 
   "clock": {
-      "format": "{:%H:%M}",
-      "format-alt": "{:%m-%d-%Y}"
-  },
+    "format": "{:%I:%M %p}",
+    "format-alt": "{:%d-%m-%Y}",
+},
 
 
   "cpu": {
@@ -86,8 +86,7 @@
 
   "custom/launcher":{
       "format": " ",
-      "on-click": "sh ~/.config/rofi/launchers/type-2/launcher.sh",
-      "on-click-right": "killall rofi"
+      "on-click": "kitty -- neofetch",
   },
 
 
